@@ -70,7 +70,7 @@ insertIntoFreeList(): Maintains sorted free block list
 insertIntoAllocatedList(): Maintains sorted allocated block list
 
 Example Run
-Copy=== Time: 50 ===
+=== Time: 50 ===
 Memory Requested: 200 units
 Free Memory:     [   0:1000] 
 Total Free: 1000 units
