@@ -1,3 +1,5 @@
+Name: Halimah Abdulrasheed Instructor: Franco Carlacci CS2010 Assignment 5
+
 Memory Allocation Simulator
 Overview
 This project implements a memory allocation simulator that demonstrates the dynamic allocation and deallocation of memory blocks using a first-fit allocation strategy. The simulation includes features such as lease-based memory management, block merging, and detailed memory state tracking.
